@@ -25,7 +25,9 @@ $$\hat{\pi}_{\text{ps}} \in  \begin{bmatrix} 3.100189 & 3.228481 \end{bmatrix}$$
 
 Mientras, las estimaciones para los sorteos no caen dentro de este intervalo:
 
-$$ \begin{matrix} =  \\ =  \\ =  \end{matrix}
+$$ \begin{matrix} =  \\ =  \\ =  \end{matrix}$$
+
+
 $$\begin{matrix} \hat{\pi}_{\text{melate}} & = & 2.9359474 \\  \hat{\pi}_{\text{revancha}} & = & 2.9618344 \\  \hat{\pi}_{\text{revanchita}} & = & 3.0212016  \end{matrix}$$
 
 Indicando que *no hay evidencia* de que sean *números aleatorios*.
