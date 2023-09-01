@@ -19,12 +19,12 @@ Es decir
 
 $$ \pi = \sqrt{\frac{6}{\mathbb{P} \( n, m \text{ coprimos} \) }} $$
 
-Dado el análisis la estimación de $\pi$ de los números pseudoaleatorios calculando el intervalo $(\hat{p}-\hat{\sigma}, \hat{p}+ \hat{\sigma} )$ es
+Dado el análisis la estimación de $\pi$ de los números pseudoaleatorios calculando el intervalo $(\hat{p}-\hat{\sigma}, \hat{p}+ \hat{\sigma} )$ donde $\hat{p}$ es la estimación de $\mathbb{P}(n, m \text{ coprimos}) $ y \hat{\sigma} la estimación de la raíz de la varianza, tenemos:
 
 $$\hat{\pi}_{\text{ps}} \in  \begin{bmatrix} 3.100189 & 3.228481 \end{bmatrix}$$
 
-Mientras, las estimaciones para los sorteos no caen dentro de este intervalo
+Mientras, las estimaciones para los sorteos no caen dentro de este intervalo:
 
-$$\begin{matrix} \hat{\pi}_{\text{melate}}&=&2.9359474 \\  \hat{\pi}_{\text{revancha}}&=& 2.9618344 \\  \hat{\pi}_{\text{revanchita}}&=& 3.0212016  \end{matrix}$$
+$$\begin{matrix} \hat{\pi}_{\text{melate}} & = & 2.9359474 \\  \hat{\pi}_{\text{revancha}} & = & 2.9618344 \\  \hat{\pi}_{\text{revanchita}} & = & 3.0212016  \end{matrix}$$
 
 Indicando que *no hay evidencia* de que sean *números aleatorios*.
