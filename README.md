@@ -21,7 +21,7 @@ Se realizaron 100 muestras aleatorias de igual tamaño que la cantidad de sorteo
 Es decir 
 
 ```math
- \pi = \sqrt{\frac{6}{\mathbb{P} \( n, m \text{ coprimos} \) }} $$
+ \pi = \sqrt{\frac{6}{\mathbb{P} ( n, m \text{ coprimos} ) }} 
 ```
 
 Dado el análisis la estimación de ```math \pi ``` de los números pseudoaleatorios calculando el intervalo ```math( \hat{p} - \hat{ \sigma }, \hat{p}+ \hat{ \sigma } ) ```   donde ```math \hat{p} ``` es la estimación de ```math \mathbb{P}(n, m \text{ coprimos}) ``` y ```math \hat{ \sigma }``` la estimación de la raíz de la varianza, tenemos:
