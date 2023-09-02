@@ -13,7 +13,10 @@ Antes de correr el código es necesario:
 ----------------------------------------------------------------------------------------
 # Resultados
 Se realizaron 100 muestras aleatorias de igual tamaño que la cantidad de sorteos analizados, para comparar el resultado. Recordando que la probabilidad de que dos números sean coprimos es
-$\mathbb{P}(n, m \text{ coprimos}) = \frac{\pi ^ 2}{6} $
+
+```math
+\mathbb{P}(n, m \text{ coprimos}) = \frac{\pi ^ 2}{6} $
+```
 
 Es decir 
 
